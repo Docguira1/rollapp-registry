@@ -1,0 +1,4 @@
+RPC: "http://<your-ip-or-domain>:26657" 
+REST:  "http://<your-ip-or-domain>:1317" 
+EVM RPC "http://<your-ip-or-domain>:8545>" 
+Logo path: "/logos/martian_7944718-1-logo.svg"
